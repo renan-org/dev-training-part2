@@ -53,7 +53,7 @@
 
 ### What's Next?
 
-After you have completed this course, you are probably wondering where to go from here:
+After you have completed this course, you are probably wondering where to go from here:dasdasdasdas
 
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
